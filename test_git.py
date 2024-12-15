@@ -1,4 +1,4 @@
-#
+#123
 def max_ethanol_molecules(carbon_atoms, hydrogen_atoms, oxygen_atoms):
     # Определяем количество молекул спирта из каждого элемента
     max_from_carbon = carbon_atoms // 2  # 2 атома углерода на молекулу
